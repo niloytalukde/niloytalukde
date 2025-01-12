@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/kGxTBMy/Blue-Geometric-Graphic-Designer-Linked-In-Career-Page-Background.png"  />
+  <img height="200" src="https://i.ibb.co/kGxTBMy/Blue-Geometric-Graphic-Designer-Linked-In-Career-Page-Background.png](https://i.ibb.co/xgFLTcs/Black-and-White-Gradient-Personal-Linked-In-Banner-2.png"  />
 </div>
 
 ###
