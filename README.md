@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/n9GdgNY/Chat-GPT-Image-Sep-21-2026-05-57-48-PM.png" />
+  <img width="100%" src="https://i.ibb.co/n9GdgNY/Chat-GPT-Image-Sep-21-2026-05-57-48-PM.png" />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ---
 
-## 👋 About
+##  About
 
 I'm a developer focused on **React Native mobile development** alongside full-stack work with the **MERN stack**. I've taken apps from first commit through to production and **live releases on the Google Play Store and Apple App Store**, including a real ride-hailing platform used by drivers and passengers.
 
@@ -34,9 +34,9 @@ I care about clean, maintainable code, smooth user experience, and shipping prod
 
 ---
 
-## 🚀 Published Apps
+##  Published Apps
 
-**OTP Cabs — Ride-Booking App (Passenger)** · React Native · Android &amp; iOS
+**OTP Cabs  Ride-Booking App (Passenger)** · React Native · Android &amp; iOS
 A cross-platform ride-hailing app for city rides, airport transfers, outstation trips, and driver hire, with OTP-based ride verification, real-time driver tracking, and fare estimation.
 [▶ Google Play](https://play.google.com/store/apps/details?id=com.otpcab) · [ App Store](https://apps.apple.com/us/app/otpcabs/id6808345044)
 
